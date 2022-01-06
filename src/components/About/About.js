@@ -1,5 +1,5 @@
 import React from "react";
-import coverImage from "./index";
+import coverImage from "../index";
 
 const About = () => {
     return (
